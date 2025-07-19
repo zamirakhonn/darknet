@@ -9,27 +9,9 @@
 
 * Paper **YOLOv7**: https://arxiv.org/abs/2207.02696
 
-* source code YOLOv7 - Pytorch (use to reproduce results): https://github.com/WongKinYiu/yolov7
-
-----
-
-* Paper **YOLOv4**: https://arxiv.org/abs/2004.10934
-
-* source code YOLOv4 - Darknet (use to reproduce results): https://github.com/AlexeyAB/darknet
-
-----
 
 * Paper **Scaled-YOLOv4 (CVPR 2021)**: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html
 
-* source code Scaled-YOLOv4 - Pytorch (use to reproduce results): https://github.com/WongKinYiu/ScaledYOLOv4
-
-----
-
-### YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-
-* **Paper**: https://arxiv.org/abs/2207.02696
-
-* **source code - Pytorch (use to reproduce results):** https://github.com/WongKinYiu/yolov7
 
 
 YOLOv7 is more accurate and faster than YOLOv5 by **120%** FPS, than YOLOX by **180%** FPS, than Dual-Swin-T by **1200%** FPS, than ConvNext by **550%** FPS, than SWIN-L by **500%** FPS, than PPYOLOE-X by **150%** FPS.
